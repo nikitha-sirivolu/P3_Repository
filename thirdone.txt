@@ -1,8 +1,5 @@
 third file = says hi at 12.40pm
 third file - written by dev 2
 third file - written by Nikitha
-<<<<<<< HEAD
 second im doing here in text
-=======
 first updating in github here
->>>>>>> f55056724007f359b3bc68ecdd4a6f5a8c9b9653
